@@ -1,0 +1,449 @@
+c#MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll# 4/02/21#4969848#0#0#106ecd188de6882cd4f3753f8085642e
+c#MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll# 4/02/21#780288#0#0#58bc2d91e75ea151d342dc3429b6de64
+c#MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser# 4/02/21#1605#0#0#9d777b19e6c392595ffdf096f545112c
+c#MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx# 4/02/21#60575#0#0#d86519181c35514fd562c25c9bbc1699
+c#MonoBleedingEdge\etc\mono\2.0\machine.config# 4/02/21#29116#0#0#bc10d08755b2249a890156caba7d0df3
+c#MonoBleedingEdge\etc\mono\2.0\settings.map# 4/02/21#2622#0#0#be7bdc177cb2572f2956782ec6d7d39c
+c#MonoBleedingEdge\etc\mono\2.0\web.config# 4/02/21#11686#0#0#d0f4997f23a914fc3536c8f88ae32d46
+c#MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser# 4/02/21#1605#0#0#9d777b19e6c392595ffdf096f545112c
+c#MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx# 4/02/21#60575#0#0#d86519181c35514fd562c25c9bbc1699
+c#MonoBleedingEdge\etc\mono\4.0\machine.config# 4/02/21#33648#0#0#1104883650c45071f2d5eaf4927ae4e1
+c#MonoBleedingEdge\etc\mono\4.0\settings.map# 4/02/21#2622#0#0#be7bdc177cb2572f2956782ec6d7d39c
+c#MonoBleedingEdge\etc\mono\4.0\web.config# 4/02/21#18848#0#0#2fcb410ca8ca34e63916aed0f2d68d61
+c#MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser# 4/02/21#1605#0#0#9d777b19e6c392595ffdf096f545112c
+c#MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx# 4/02/21#60575#0#0#d86519181c35514fd562c25c9bbc1699
+c#MonoBleedingEdge\etc\mono\4.5\machine.config# 4/02/21#34106#0#0#9e931e26c22b6d00575d90ab078dd9f8
+c#MonoBleedingEdge\etc\mono\4.5\settings.map# 4/02/21#2622#0#0#be7bdc177cb2572f2956782ec6d7d39c
+c#MonoBleedingEdge\etc\mono\4.5\web.config# 4/02/21#18857#0#0#e51ccd4d1e80efdf62ad2a0785f56228
+c#MonoBleedingEdge\etc\mono\browscap.ini# 4/02/21#311984#0#0#44ae5d958d672d1f230503dbc3c54261
+c#MonoBleedingEdge\etc\mono\config# 4/02/21#3276#0#0#b349750c4213fb460229f150c897a79a
+c#MonoBleedingEdge\etc\mono\mconfig\config.xml# 4/02/21#25817#0#0#106bd391e5041fb02a3e9d40b5dda8f2
+c#REMProject Core.exe#19/03/21#650752#0#0#e5884713cacfc6332053ef4f5858bc6f
+c#REMProject Core_Data\app.info#19/03/21#30#0#0#f0444d3a6d6a708f109746ab479cf90e
+c#REMProject Core_Data\boot.config#19/03/21#133#0#0#939ba785e951572b4078ac33c08e6dea
+c#REMProject Core_Data\GameConfig.cfg# 6/03/21#233#0#0#9a88a8cde8a5382de2f36c66f423fe6c
+c#REMProject Core_Data\globalgamemanagers#19/03/21#2034420#0#0#7e34a2ed0d291d178e1a8058ff098fa0
+c#REMProject Core_Data\globalgamemanagers.assets#19/03/21#352308#0#0#9d19be6d21358a16c8fe4906cce7af38
+c#REMProject Core_Data\globalgamemanagers.assets.resS#19/03/21#8249344#0#0#998ff3a398b7d7400698c23de075bfb3
+c#REMProject Core_Data\level0#19/03/21#610004#0#0#578080d2ec3861ac06a87b173e2ebfb2
+c#REMProject Core_Data\level0.resS#19/03/21#2008800#0#0#1a25cc9519f49dc2d59b960a3965f578
+c#REMProject Core_Data\level1#19/03/21#777704#0#0#c74d7b201cd838adc71f25872ece64b6
+c#REMProject Core_Data\level2#19/03/21#132452#0#0#8e6073d7eb1b5501dff7e4d07e97dbee
+c#REMProject Core_Data\level3#19/03/21#9072540#0#0#59818dd39a5474d3ef5308886adf9196
+c#REMProject Core_Data\level3.resS#19/03/21#28009184#0#0#6bd413ed851d6964f3ad93529a6a4663
+c#REMProject Core_Data\level4#19/03/21#15627548#0#0#7ed2b9b0d2b4c583a7e052dee2c3fe2a
+c#REMProject Core_Data\level4.resS#19/03/21#28911440#0#0#ef370c947caccac3a7b055a764f8e3d4
+c#REMProject Core_Data\level5#19/03/21#1912932#0#0#3bf0e80c17ce0b7b2147efc3b31615ab
+c#REMProject Core_Data\level5.resS#19/03/21#10631560#0#0#13dc9e759cf093eaa215e7d6734a6141
+c#REMProject Core_Data\level6#19/03/21#3698100#0#0#4c44ba219bc7d54103c2f77174ded4c8
+c#REMProject Core_Data\level6.resS#19/03/21#1555840#0#0#393aa436c4e55cc2003c4cd6af4cb1ee
+c#REMProject Core_Data\level7#19/03/21#780204#0#0#5ffc8de79cea0696f5c277525113b715
+c#REMProject Core_Data\level7.resS#19/03/21#2094336#0#0#103a3e4b2c08596f42f0315373a4f872
+c#REMProject Core_Data\Managed\Assembly-CSharp-firstpass.dll#19/03/21#72192#0#0#9504b59cebe970443279fe3ec69b8016
+c#REMProject Core_Data\Managed\Assembly-CSharp.dll#19/03/21#1209856#0#0#3ee5cd73be9db4a6b32a3c251b42ea1b
+c#REMProject Core_Data\Managed\Aura2_Core.dll#19/03/21#86528#0#0#beb43c9ae56ae5c19fb6fbfe8f8d5200
+c#REMProject Core_Data\Managed\BakeryRuntimeAssembly.dll#19/03/21#16384#0#0#07535af7717198dbec3736cf229aa8fb
+c#REMProject Core_Data\Managed\DotsStripping.xml#19/03/21#10728#0#0#1e2b204d26921e65f963264772063810
+c#REMProject Core_Data\Managed\EditorToUnityLinkerData.json#19/03/21#143740#0#0#5e519fac882136f894d485ef08af0dda
+c#REMProject Core_Data\Managed\Elringus.SpriteGlow.Runtime.dll#19/03/21#7168#0#0#6ac47b2496136925a8ad4059b80456c3
+c#REMProject Core_Data\Managed\LiteNetLib.dll#19/03/21#48128#0#0#7631ffc64dd814aacfb2d4639357eb6c
+c#REMProject Core_Data\Managed\MeshBakerCore.dll#19/03/21#258048#0#0#2c3b3f78e34ddfa8ad4e7be529ddc4dd
+c#REMProject Core_Data\Managed\Mono.Security.dll#19/03/21#91648#0#0#d263b3573e3dc5e1c19f90dc62ad8f87
+c#REMProject Core_Data\Managed\mscorlib.dll#19/03/21#1808384#0#0#4498e978972d32056be5eb929e8ac774
+c#REMProject Core_Data\Managed\response.rsp#19/03/21#2238#0#0#c86a68faaedb5ff5b76cddf16139bdd3
+c#REMProject Core_Data\Managed\System.Core.dll#19/03/21#72192#0#0#9504b59cebe970443279fe3ec69b8016
+c#REMProject Core_Data\Managed\System.dll#19/03/21#489472#0#0#4a91d04def1e87910554d7b2605669ae
+c#REMProject Core_Data\Managed\System.Runtime.CompilerServices.Unsafe.dll#19/03/21#2560#0#0#d645e086ffe097fa3f1ad50032fb3574
+c#REMProject Core_Data\Managed\TypesInScenes.xml#19/03/21#19756#0#0#3ffca6d1d8e4a3f6726d25156751c0dc
+c#REMProject Core_Data\Managed\Unity.Burst.dll#19/03/21#12800#0#0#54024efde4ee8cd8d2c4cacaf71726ce
+c#REMProject Core_Data\Managed\Unity.Burst.Unsafe.dll#19/03/21#2048#0#0#f00e559da41ac5dfb03f5a66ac048c52
+c#REMProject Core_Data\Managed\Unity.Collections.dll#19/03/21#82432#0#0#2a3a378292aa01c7b7b03d174c60ce15
+c#REMProject Core_Data\Managed\Unity.Entities.dll#19/03/21#415232#0#0#b7215c02ca93dbdfd4d3e91df2b77d32
+c#REMProject Core_Data\Managed\Unity.Entities.Hybrid.dll#19/03/21#64512#0#0#0e62f0e950bb8c563a4740b305315587
+c#REMProject Core_Data\Managed\Unity.Jobs.dll#19/03/21#4608#0#0#b56f261a19a429033c621240317c2a3e
+c#REMProject Core_Data\Managed\Unity.Kinematica.dll#19/03/21#8192#0#0#461b2c504864c9d517dcf08425a26999
+c#REMProject Core_Data\Managed\Unity.Mathematics.dll#19/03/21#61440#0#0#8cd08b3a82b90d655a190e37582a7033
+c#REMProject Core_Data\Managed\Unity.Mathematics.Extensions.dll#19/03/21#4608#0#0#b56f261a19a429033c621240317c2a3e
+c#REMProject Core_Data\Managed\Unity.Mathematics.Extensions.Hybrid.dll#19/03/21#3072#0#0#d32a71c515806555e459f2dcbed70727
+c#REMProject Core_Data\Managed\Unity.Physics.dll#19/03/21#275968#0#0#5276900c5369ba7134cc290a843be8f2
+c#REMProject Core_Data\Managed\Unity.Physics.Hybrid.dll#19/03/21#118272#0#0#e4c690546b02325c636c89cb6f1fcdf9
+c#REMProject Core_Data\Managed\Unity.Postprocessing.Runtime.dll#19/03/21#123392#0#0#b084fd7e7c6d2d54633199bfc2944cbb
+c#REMProject Core_Data\Managed\Unity.ProBuilder.dll#19/03/21#54272#0#0#eb74476e3c704fff6483917c25f148a3
+c#REMProject Core_Data\Managed\Unity.Properties.dll#19/03/21#90624#0#0#accc874d2521cbaf2e260726b6fe0d75
+c#REMProject Core_Data\Managed\Unity.Rendering.Hybrid.dll#19/03/21#92160#0#0#564406c21612408dec0d3915ff881469
+c#REMProject Core_Data\Managed\Unity.Scenes.Hybrid.dll#19/03/21#64512#0#0#0e62f0e950bb8c563a4740b305315587
+c#REMProject Core_Data\Managed\Unity.Serialization.dll#19/03/21#27136#0#0#9b75d66bb5338a731574e55e3d53884b
+c#REMProject Core_Data\Managed\Unity.TerrainTools.dll#19/03/21#3072#0#0#d32a71c515806555e459f2dcbed70727
+c#REMProject Core_Data\Managed\Unity.Timeline.dll#19/03/21#71168#0#0#d2f3b0d9e1705890c22c5338a08c41af
+c#REMProject Core_Data\Managed\Unity.Transforms.dll#19/03/21#35328#0#0#f46f7990627479197d074be2c993fef6
+c#REMProject Core_Data\Managed\Unity.Transforms.Hybrid.dll#19/03/21#12800#0#0#54024efde4ee8cd8d2c4cacaf71726ce
+c#REMProject Core_Data\Managed\UnityEngine.AIModule.dll#19/03/21#9728#0#0#801f46e058c6cb4057be18bf8b8b906d
+c#REMProject Core_Data\Managed\UnityEngine.AndroidJNIModule.dll#19/03/21#37376#0#0#2b84472555ac40c90a18d7a5f7914114
+c#REMProject Core_Data\Managed\UnityEngine.AnimationModule.dll#19/03/21#23552#0#0#25710272d197f9eaf441daab8ae5b564
+c#REMProject Core_Data\Managed\UnityEngine.AssetBundleModule.dll#19/03/21#10240#0#0#76eb7a368b56fcb6751fb7743504249a
+c#REMProject Core_Data\Managed\UnityEngine.AudioModule.dll#19/03/21#12288#0#0#c37ceb0febdc779c0f2be7be495aaea4
+c#REMProject Core_Data\Managed\UnityEngine.CoreModule.dll#19/03/21#368640#0#0#59155f39f55e2b7dc286de9f989ef453
+c#REMProject Core_Data\Managed\UnityEngine.DirectorModule.dll#19/03/21#9216#0#0#97ceae3ec8138881326fb8e7c210af3c
+c#REMProject Core_Data\Managed\UnityEngine.dll#19/03/21#38912#0#0#620727002133e2fede83ec274a5d4048
+c#REMProject Core_Data\Managed\UnityEngine.GridModule.dll#19/03/21#8704#0#0#837058bc975f0b2734358ccf15fb21cd
+c#REMProject Core_Data\Managed\UnityEngine.ImageConversionModule.dll#19/03/21#8704#0#0#837058bc975f0b2734358ccf15fb21cd
+c#REMProject Core_Data\Managed\UnityEngine.IMGUIModule.dll#19/03/21#65536#0#0#b9fae86d909d81d1cd7606cf1daefd6d
+c#REMProject Core_Data\Managed\UnityEngine.InputLegacyModule.dll#19/03/21#16384#0#0#07535af7717198dbec3736cf229aa8fb
+c#REMProject Core_Data\Managed\UnityEngine.InputModule.dll#19/03/21#10240#0#0#76eb7a368b56fcb6751fb7743504249a
+c#REMProject Core_Data\Managed\UnityEngine.JSONSerializeModule.dll#19/03/21#9216#0#0#97ceae3ec8138881326fb8e7c210af3c
+c#REMProject Core_Data\Managed\UnityEngine.ParticleSystemModule.dll#19/03/21#25088#0#0#98c5cf99e57a1b4faa1e44a1a8b91972
+c#REMProject Core_Data\Managed\UnityEngine.Physics2DModule.dll#19/03/21#14336#0#0#b35dce534b02b2d4f2d3daee11569460
+c#REMProject Core_Data\Managed\UnityEngine.PhysicsModule.dll#19/03/21#33280#0#0#98f96ab28a3c6b9b20207973cd71c74a
+c#REMProject Core_Data\Managed\UnityEngine.SharedInternalsModule.dll#19/03/21#9216#0#0#97ceae3ec8138881326fb8e7c210af3c
+c#REMProject Core_Data\Managed\UnityEngine.StreamingModule.dll#19/03/21#8704#0#0#837058bc975f0b2734358ccf15fb21cd
+c#REMProject Core_Data\Managed\UnityEngine.SubsystemsModule.dll#19/03/21#11776#0#0#54b75fa7b6eee9a6d7c244e96a9156d1
+c#REMProject Core_Data\Managed\UnityEngine.TerrainModule.dll#19/03/21#26112#0#0#44eb3462474d23b4024471bee997263b
+c#REMProject Core_Data\Managed\UnityEngine.TerrainPhysicsModule.dll#19/03/21#8704#0#0#837058bc975f0b2734358ccf15fb21cd
+c#REMProject Core_Data\Managed\UnityEngine.TextRenderingModule.dll#19/03/21#17408#0#0#a8ac01d5e7dc3d1e38e929b5bdd60c39
+c#REMProject Core_Data\Managed\UnityEngine.TilemapModule.dll#19/03/21#12288#0#0#c37ceb0febdc779c0f2be7be495aaea4
+c#REMProject Core_Data\Managed\UnityEngine.UI.dll#19/03/21#209408#0#0#050003bc830bb4267dbc71de9e1a1bff
+c#REMProject Core_Data\Managed\UnityEngine.UIElementsModule.dll#19/03/21#104960#0#0#fd1a8d7e67748994046d3283ca1dc3c2
+c#REMProject Core_Data\Managed\UnityEngine.UIModule.dll#19/03/21#16384#0#0#07535af7717198dbec3736cf229aa8fb
+c#REMProject Core_Data\Managed\UnityEngine.UnityAnalyticsModule.dll#19/03/21#10752#0#0#7b97da2efdb01fc8d78a7ad580dbba19
+c#REMProject Core_Data\Managed\UnityEngine.UnityWebRequestModule.dll#19/03/21#19968#0#0#ee11807421df8dedb86c44ab81d3ebb4
+c#REMProject Core_Data\Managed\UnityEngine.VFXModule.dll#19/03/21#10240#0#0#76eb7a368b56fcb6751fb7743504249a
+c#REMProject Core_Data\Managed\UnityEngine.VideoModule.dll#19/03/21#11776#0#0#54b75fa7b6eee9a6d7c244e96a9156d1
+c#REMProject Core_Data\Managed\UnityEngine.VRModule.dll#19/03/21#10240#0#0#76eb7a368b56fcb6751fb7743504249a
+c#REMProject Core_Data\Managed\UnityEngine.WindModule.dll#19/03/21#8704#0#0#837058bc975f0b2734358ccf15fb21cd
+c#REMProject Core_Data\Managed\UnityEngine.XRModule.dll#19/03/21#16896#0#0#bdb81c181f5f45c54911450daf6e227f
+c#REMProject Core_Data\Managed\UnityLinkerToEditorData.json#19/03/21#2372#0#0#d6c94e8520330543f5e20db51c566511
+c#REMProject Core_Data\Plugins\x86_64\fmodstudio.dll#21/02/21#2990080#0#0#5e34e9db6b7aa16d4ccecdee575cd1ea
+c#REMProject Core_Data\Plugins\x86_64\fmodstudiol.dll#21/02/21#3919872#0#0#f9cf8a861edcc82344ff964f996ea258
+c#REMProject Core_Data\Plugins\x86_64\lib_burst_generated.dll#19/03/21#2366464#0#0#73510a7f552ad2d61e93ab9f9f95fe1b
+c#REMProject Core_Data\Plugins\x86_64\lib_burst_generated.txt#19/03/21#330208#0#0#7e59c71a3ace076806ee81c23580726c
+c#REMProject Core_Data\Plugins\x86_64\resonanceaudio.dll#21/02/21#865280#0#0#a6c8f5f45adbe3feb1caba9f3c1b1ab0
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10\0~10.5cm.L10 (Module_Manager).txt#19/03/21#2116#0#0#7bdc336f94972cf499028b024bb914cd
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10\1~10.5cm.L10 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10\2~10.5cm.L10 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10\3~10.5cm.L10 (Module_Cannon).txt#19/03/21#1787#0#0#e8ab8e8d517bc0c128b414e1a7614f93
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10\4~10.5cm.L10 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 APBC\0~10.5cm.L12.APBC (Module_Manager).txt#19/03/21#1168#0#0#ed0b70d71309edbd2d6e9c7ab607685d
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 APBC\1~10.5cm.L12.APBC (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 APBC\2~10.5cm.L12.APBC (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 APBC\3~10.5cm.L12.APBC (Module_CannonShell).txt#19/03/21#359#0#0#f4a5656e884cb88165d83d61fa440b26
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 APBC\4~10.5cm.L12.APBC (Module_AmmoRack).txt#19/03/21#795#0#0#858e72b30b11930172b783f4a45927e4
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 Charge\0~10.5cm.L12.Charge (Module_Manager).txt#19/03/21#1167#0#0#802457452e1e90fa0a6316da910edd23
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 Charge\1~10.5cm.L12.Charge (Module_Builder).txt#19/03/21#3801#0#0#a7596c3ce2d0398d95288ffff2d62be8
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 Charge\2~10.5cm.L12.Charge (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\10.5cm L10 Charge\3~10.5cm.L12.Charge (Module_AmmoRack).txt#19/03/21#780#0#0#5755437b24cd92ee62fe4a8f19594c3f
+c#REMProject Core_Data\Regulations\Modules\105mm L6\0~105mm.L6 (Module_Manager).txt#19/03/21#2815#0#0#15f743dfff395f341a82875b61694294
+c#REMProject Core_Data\Regulations\Modules\105mm L6\1~105mm.L6 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\105mm L6\2~105mm.L6 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\105mm L6\3~105mm.L6 (Module_Cannon).txt#19/03/21#1786#0#0#5c44737ff6b9abc5363213480577e9f7
+c#REMProject Core_Data\Regulations\Modules\105mm L6\4~105mm.L6 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\105mm L6 HEAT\0~105mm.L6.HEAT (Module_Manager).txt#19/03/21#1165#0#0#fddc9cc91a1b5a4db87d74e3bda53538
+c#REMProject Core_Data\Regulations\Modules\105mm L6 HEAT\1~105mm.L6.HEAT (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\105mm L6 HEAT\2~105mm.L6.HEAT (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\105mm L6 HEAT\3~105mm.L6.HEAT (Module_CannonShell).txt#19/03/21#368#0#0#638805e97167f80722681d1b8029c6d1
+c#REMProject Core_Data\Regulations\Modules\105mm L6 HEAT\4~105mm.L6.HEAT (Module_AmmoRack).txt#19/03/21#795#0#0#858e72b30b11930172b783f4a45927e4
+c#REMProject Core_Data\Regulations\Modules\107mm L3\0~107mm.L3 (Module_Manager).txt#19/03/21#2655#0#0#43ebee832d6a7c7ec15c1763c3ec14c0
+c#REMProject Core_Data\Regulations\Modules\107mm L3\1~107mm.L3 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\107mm L3\2~107mm.L3 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\107mm L3\3~107mm.L3 (Module_Cannon).txt#19/03/21#1771#0#0#3f9fd4855034a93be851b7d300422eac
+c#REMProject Core_Data\Regulations\Modules\107mm L3\4~107mm.L3 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\107mm L3 HE\0~107mm.L3.HE (Module_Manager).txt#19/03/21#1162#0#0#50c3e7a02ea08a4a10609b429cbd7062
+c#REMProject Core_Data\Regulations\Modules\107mm L3 HE\1~107mm.L3.HE (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\107mm L3 HE\2~107mm.L3.HE (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\107mm L3 HE\3~107mm.L3.HE (Module_CannonShell).txt#19/03/21#347#0#0#8891878269e038d60772fb9c4b71aa93
+c#REMProject Core_Data\Regulations\Modules\107mm L3 HE\4~107mm.L3.HE (Module_AmmoRack).txt#19/03/21#796#0#0#0a69888a02a8d48a4afe04b484a19ceb
+c#REMProject Core_Data\Regulations\Modules\120mm L9\0~120mm.L9 (Module_Manager).txt#19/03/21#2581#0#0#1ec7c4a914cbd2c33950e2e4c9b5fe34
+c#REMProject Core_Data\Regulations\Modules\120mm L9\1~120mm.L9 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\120mm L9\2~120mm.L9 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\120mm L9\3~120mm.L9 (Module_Cannon).txt#19/03/21#1788#0#0#c4a11e67bd395c28b5e7c0c647c3782d
+c#REMProject Core_Data\Regulations\Modules\120mm L9\4~120mm.L9 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\120mm L9 AP\0~120mm.L9.AP (Module_Manager).txt#19/03/21#1161#0#0#6cd02b5d355fd75d53c56475386d3d54
+c#REMProject Core_Data\Regulations\Modules\120mm L9 AP\1~120mm.L9.AP (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\120mm L9 AP\2~120mm.L9.AP (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\120mm L9 AP\3~120mm.L9.AP (Module_CannonShell).txt#19/03/21#356#0#0#e61789c4f7d2887fba3eb405d49e544c
+c#REMProject Core_Data\Regulations\Modules\120mm L9 AP\4~120mm.L9.AP (Module_AmmoRack).txt#19/03/21#795#0#0#858e72b30b11930172b783f4a45927e4
+c#REMProject Core_Data\Regulations\Modules\125mm L17\0~125mm.L17 (Module_Manager).txt#19/03/21#2189#0#0#2d99778aaef8bad14c4cf94fbd689608
+c#REMProject Core_Data\Regulations\Modules\125mm L17\1~125mm.L17 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\125mm L17\2~125mm.L17 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\125mm L17\3~125mm.L17 (Module_Cannon).txt#19/03/21#1800#0#0#9ead45226b400210bcb29749f4e8e6e6
+c#REMProject Core_Data\Regulations\Modules\125mm L17\4~125mm.L17 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\125mm L17 APFDS\0~125mm.L17.APFDS (Module_Manager).txt#19/03/21#1169#0#0#a6d3f359868f08edb7ef148440a620bf
+c#REMProject Core_Data\Regulations\Modules\125mm L17 APFDS\1~125mm.L17.APFDS (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\125mm L17 APFDS\2~125mm.L17.APFDS (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\125mm L17 APFDS\3~125mm.L17.APFDS (Module_CannonShell).txt#19/03/21#359#0#0#f4a5656e884cb88165d83d61fa440b26
+c#REMProject Core_Data\Regulations\Modules\125mm L17 APFDS\4~125mm.L17.APFDS (Module_AmmoRack).txt#19/03/21#796#0#0#0a69888a02a8d48a4afe04b484a19ceb
+c#REMProject Core_Data\Regulations\Modules\125mm L17 Charge\0~125mm.L17.Charge (Module_Manager).txt#19/03/21#1166#0#0#c00d13a899077f785650fc0cee2e8b51
+c#REMProject Core_Data\Regulations\Modules\125mm L17 Charge\1~125mm.L17.Charge (Module_Builder).txt#19/03/21#3801#0#0#a7596c3ce2d0398d95288ffff2d62be8
+c#REMProject Core_Data\Regulations\Modules\125mm L17 Charge\2~125mm.L17.Charge (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\125mm L17 Charge\3~125mm.L17.Charge (Module_AmmoRack).txt#19/03/21#796#0#0#0a69888a02a8d48a4afe04b484a19ceb
+c#REMProject Core_Data\Regulations\Modules\128mm L12\0~128mm.L12 (Module_Manager).txt#19/03/21#2115#0#0#dff1d04856ca21f2f8f97974681bbb7c
+c#REMProject Core_Data\Regulations\Modules\128mm L12\1~128mm.L12 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\128mm L12\2~128mm.L12 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\128mm L12\3~128mm.L12 (Module_Cannon).txt#19/03/21#1787#0#0#e8ab8e8d517bc0c128b414e1a7614f93
+c#REMProject Core_Data\Regulations\Modules\128mm L12\4~128mm.L12 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\128mm L12 APBC\0~128mm.L12.APBC (Module_Manager).txt#19/03/21#1167#0#0#802457452e1e90fa0a6316da910edd23
+c#REMProject Core_Data\Regulations\Modules\128mm L12 APBC\1~128mm.L12.APBC (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\128mm L12 APBC\2~128mm.L12.APBC (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\128mm L12 APBC\3~128mm.L12.APBC (Module_CannonShell).txt#19/03/21#360#0#0#48a9be452ec91bae157cf5ec873711cc
+c#REMProject Core_Data\Regulations\Modules\128mm L12 APBC\4~128mm.L12.APBC (Module_AmmoRack).txt#19/03/21#795#0#0#858e72b30b11930172b783f4a45927e4
+c#REMProject Core_Data\Regulations\Modules\128mm L12 Charge\0~128mm.L12.Charge (Module_Manager).txt#19/03/21#1166#0#0#c00d13a899077f785650fc0cee2e8b51
+c#REMProject Core_Data\Regulations\Modules\128mm L12 Charge\1~128mm.L12.Charge (Module_Builder).txt#19/03/21#3801#0#0#a7596c3ce2d0398d95288ffff2d62be8
+c#REMProject Core_Data\Regulations\Modules\128mm L12 Charge\2~128mm.L12.Charge (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\128mm L12 Charge\3~128mm.L12.Charge (Module_AmmoRack).txt#19/03/21#794#0#0#a59637c70d14725f0f03663907b88f53
+c#REMProject Core_Data\Regulations\Modules\135-Transfer\0~135-Transfer (Module_Manager).txt#19/03/21#2504#0#0#0405798cb9ee01ff3f58cf9a023dea86
+c#REMProject Core_Data\Regulations\Modules\135-Transfer\1~135-Transfer (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\135-Transfer\2~135-Transfer (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\20mm AC2\0~20mm.AC2 (Module_Manager).txt#19/03/21#2498#0#0#8bb46dd85f6fdb3b296408866788016a
+c#REMProject Core_Data\Regulations\Modules\20mm AC2\1~20mm.AC2 (Module_Builder).txt#19/03/21#3761#0#0#a607c579ecfcddf15c5570e090fd258d
+c#REMProject Core_Data\Regulations\Modules\20mm AC2\2~20mm.AC2 (Module_InputRx).txt#19/03/21#1725#0#0#5e2563e1376e5973f1312961d541ecc0
+c#REMProject Core_Data\Regulations\Modules\20mm AC2\3~20mm.AC2 (Module_Cannon).txt#19/03/21#1743#0#0#3843a4d0b247fe67f7c4a158648c7067
+c#REMProject Core_Data\Regulations\Modules\20mm AC2\4~20mm.AC2 (Module_Damage).txt#19/03/21#705#0#0#4374f7b9503294c9d8d777423d30f99c
+c#REMProject Core_Data\Regulations\Modules\20mm AC2 AP\0~20mm.AC2.AP (Module_Manager).txt#19/03/21#1159#0#0#380569b728100bef18ee88d1a33eb6e0
+c#REMProject Core_Data\Regulations\Modules\20mm AC2 AP\1~20mm.AC2.AP (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\20mm AC2 AP\2~20mm.AC2.AP (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\20mm AC2 AP\3~20mm.AC2.AP (Module_CannonShell).txt#19/03/21#345#0#0#0f15d2552d154342f42b615c62509a19
+c#REMProject Core_Data\Regulations\Modules\20mm AC2 AP\4~20mm.AC2.AP (Module_AmmoRack).txt#19/03/21#794#0#0#a59637c70d14725f0f03663907b88f53
+c#REMProject Core_Data\Regulations\Modules\4 speed Transmission\0~4speedTransmission_v1 (Module_Manager).txt#19/03/21#2593#0#0#10a40392702de5c1da41b24bacf6078a
+c#REMProject Core_Data\Regulations\Modules\4 speed Transmission\1~4speedTransmission_v1 (Module_Builder).txt#19/03/21#2468#0#0#5d4f1e7476a885d3f1324dc88949accc
+c#REMProject Core_Data\Regulations\Modules\4 speed Transmission\2~4speedTransmission_v1 (Module_Damage).txt#19/03/21#679#0#0#d6cfec69a1b615b5fb46e336d36d8b8f
+c#REMProject Core_Data\Regulations\Modules\4 speed Transmission\3~4speedTransmission_v1 (Module_InputRx).txt#19/03/21#1266#0#0#ed174dc20d1b25cbfdf0515b52295a83
+c#REMProject Core_Data\Regulations\Modules\4 speed Transmission\4~4speedTransmission_v1 (Module_DriveTransmission).txt#19/03/21#792#0#0#a69618bd94d8f3a25a5152c790cf48b1
+c#REMProject Core_Data\Regulations\Modules\47mm L3\0~47mm.L3 (Module_Manager).txt#19/03/21#1790#0#0#315b07ee699e3bc8a5a2761b2272c475
+c#REMProject Core_Data\Regulations\Modules\47mm L3\1~47mm.L3 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\47mm L3\2~47mm.L3 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\47mm L3\3~47mm.L3 (Module_Cannon).txt#19/03/21#1772#0#0#e4c2ddb67cac9a9465678c77eb745a5e
+c#REMProject Core_Data\Regulations\Modules\47mm L3\4~47mm.L3 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\47mm L3 AP\0~47mm.L3.AP (Module_Manager).txt#19/03/21#1160#0#0#007bbf483bbdde3effe4abe7db1d1c75
+c#REMProject Core_Data\Regulations\Modules\47mm L3 AP\1~47mm.L3.AP (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\47mm L3 AP\2~47mm.L3.AP (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\47mm L3 AP\3~47mm.L3.AP (Module_CannonShell).txt#19/03/21#352#0#0#0d7f3846222649d2118136e9be7fc9d8
+c#REMProject Core_Data\Regulations\Modules\47mm L3 AP\4~47mm.L3.AP (Module_AmmoRack).txt#19/03/21#795#0#0#858e72b30b11930172b783f4a45927e4
+c#REMProject Core_Data\Regulations\Modules\5 speed Tank Gearbox\0~5speedTankTransmission_v1 (Module_Manager).txt#19/03/21#3065#0#0#326059a52c82a6d9eed87b8f50c7b6a6
+c#REMProject Core_Data\Regulations\Modules\5 speed Tank Gearbox\1~5speedTankTransmission_v1 (Module_Builder).txt#19/03/21#2889#0#0#cd9e4703514ecb4fc961bc2c49e3b82a
+c#REMProject Core_Data\Regulations\Modules\5 speed Tank Gearbox\2~5speedTankTransmission_v1 (Module_InputRx).txt#19/03/21#2484#0#0#b66f72ed88886eb384ff1a3dc2581f2c
+c#REMProject Core_Data\Regulations\Modules\5 speed Tank Gearbox\3~5speedTankTransmission_v1 (Module_DriveTankTransmission).txt#19/03/21#927#0#0#315cc90aeaccedb9359f59a29079e625
+c#REMProject Core_Data\Regulations\Modules\5 speed Tank Gearbox\4~5speedTankTransmission_v1 (Module_Damage).txt#19/03/21#679#0#0#d6cfec69a1b615b5fb46e336d36d8b8f
+c#REMProject Core_Data\Regulations\Modules\6 speed Transmission\0~6speedTransmission_v1 (Module_Manager).txt#19/03/21#1567#0#0#ba80982fad94172090b982983a9e94c3
+c#REMProject Core_Data\Regulations\Modules\6 speed Transmission\1~6speedTransmission_v1 (Module_Builder).txt#19/03/21#2468#0#0#5d4f1e7476a885d3f1324dc88949accc
+c#REMProject Core_Data\Regulations\Modules\6 speed Transmission\2~6speedTransmission_v1 (Module_InputRx).txt#19/03/21#1266#0#0#ed174dc20d1b25cbfdf0515b52295a83
+c#REMProject Core_Data\Regulations\Modules\6 speed Transmission\3~6speedTransmission_v1 (Module_Damage).txt#19/03/21#679#0#0#d6cfec69a1b615b5fb46e336d36d8b8f
+c#REMProject Core_Data\Regulations\Modules\6 speed Transmission\4~6speedTransmission_v1 (Module_DriveTransmission).txt#19/03/21#808#0#0#25263e2b6ab035d67cd00936fad5bf78
+c#REMProject Core_Data\Regulations\Modules\7mm MG2\0~7mm.MG34 (Module_Manager).txt#19/03/21#1480#0#0#52715d8b1c047c51fd41d47d1d5aff2d
+c#REMProject Core_Data\Regulations\Modules\7mm MG2\1~7mm.MG34 (Module_Builder).txt#19/03/21#3761#0#0#a607c579ecfcddf15c5570e090fd258d
+c#REMProject Core_Data\Regulations\Modules\7mm MG2\2~7mm.MG34 (Module_InputRx).txt#19/03/21#1725#0#0#5e2563e1376e5973f1312961d541ecc0
+c#REMProject Core_Data\Regulations\Modules\7mm MG2\3~7mm.MG34 (Module_Cannon).txt#19/03/21#1718#0#0#bd47b6a4a1da675297c8be7f75a201dd
+c#REMProject Core_Data\Regulations\Modules\7mm MG2\4~7mm.MG34 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\7mm MG34 AP\0~7mm.MG34.AP (Module_Manager).txt#19/03/21#1160#0#0#007bbf483bbdde3effe4abe7db1d1c75
+c#REMProject Core_Data\Regulations\Modules\7mm MG34 AP\1~7mm.MG34.AP (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\7mm MG34 AP\2~7mm.MG34.AP (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\7mm MG34 AP\3~7mm.MG34.AP (Module_CannonShell).txt#19/03/21#343#0#0#bf91d77b6c79ee7078ddecd24cd4d9f5
+c#REMProject Core_Data\Regulations\Modules\7mm MG34 AP\4~7mm.MG34.AP (Module_AmmoRack).txt#19/03/21#794#0#0#a59637c70d14725f0f03663907b88f53
+c#REMProject Core_Data\Regulations\Modules\90mm L5\0~90mm.L5 (Module_Manager).txt#19/03/21#2812#0#0#31804922c05df027744be53f2a7d2a27
+c#REMProject Core_Data\Regulations\Modules\90mm L5\1~90mm.L5 (Module_Builder).txt#19/03/21#3173#0#0#a77dffe6021f9384bd1f9a825cb18918
+c#REMProject Core_Data\Regulations\Modules\90mm L5\2~90mm.L5 (Module_InputRx).txt#19/03/21#1238#0#0#d80355763960782dd8927cea8512a2a2
+c#REMProject Core_Data\Regulations\Modules\90mm L5\3~90mm.L5 (Module_Cannon).txt#19/03/21#1768#0#0#8087ebb158d74f34151e95e3553cbc6f
+c#REMProject Core_Data\Regulations\Modules\90mm L5\4~90mm.L5 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\90mm L5 APHE\0~90mm.L5.APHE (Module_Manager).txt#19/03/21#1164#0#0#e61ee1650ac025f6216e4816dd535659
+c#REMProject Core_Data\Regulations\Modules\90mm L5 APHE\1~90mm.L5.APHE (Module_Builder).txt#19/03/21#9160#0#0#e22f7f98625346e32b1ad5363d22f6be
+c#REMProject Core_Data\Regulations\Modules\90mm L5 APHE\2~90mm.L5.APHE (Module_Damage).txt#19/03/21#661#0#0#54e3b2057d3c39f67eb59ae44d53bc51
+c#REMProject Core_Data\Regulations\Modules\90mm L5 APHE\3~90mm.L5.APHE (Module_CannonShell).txt#19/03/21#349#0#0#cc93b1c6ec0752672145fd0d12ce7f2e
+c#REMProject Core_Data\Regulations\Modules\90mm L5 APHE\4~90mm.L5.APHE (Module_AmmoRack).txt#19/03/21#795#0#0#858e72b30b11930172b783f4a45927e4
+c#REMProject Core_Data\Regulations\Modules\Asteroid-X24\0~MeteorX24 (Module_Manager).txt#19/03/21#7086#0#0#8cd502c7b20fd476b4d9be610ea27a13
+c#REMProject Core_Data\Regulations\Modules\Asteroid-X24\1~MeteorX24 (Module_Builder).txt#19/03/21#1429#0#0#61add887ca6fa0ab974770f867cebb2a
+c#REMProject Core_Data\Regulations\Modules\Asteroid-X24\2~MeteorX24 (Module_Damage).txt#19/03/21#681#0#0#be2cfbe9fd80024e557e5b5e24dfa4f4
+c#REMProject Core_Data\Regulations\Modules\Asteroid-X24\3~MeteorX24 (Module_InputRx).txt#19/03/21#1262#0#0#fc49f3b6536a28b16da63e5019897932
+c#REMProject Core_Data\Regulations\Modules\Asteroid-X24\4~MeteorX24 (Module_DriveEngine).txt#19/03/21#1563#0#0#16773f93ff68fa1e510bf201188ccbfb
+c#REMProject Core_Data\Regulations\Modules\Asteroid-X24\5~MeteorX24 (FMODUnity.StudioEventEmitter).txt#19/03/21#326#0#0#a36bb5429eef8ce3a72546af0e793ee2
+c#REMProject Core_Data\Regulations\Modules\Axle-1\0~RearEnd-1 (Module_Manager).txt#19/03/21#3203#0#0#300854d6c487c408cd341600df70006a
+c#REMProject Core_Data\Regulations\Modules\Axle-1\1~RearEnd-1 (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\Axle-1\2~RearEnd-1 (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\Chain Link\0~xFence (Module_Manager).txt#19/03/21#1560#0#0#10f484fabdfc78e741caaca25b9ccea6
+c#REMProject Core_Data\Regulations\Modules\Chain Link\1~xFence (Module_Builder).txt#19/03/21#1752#0#0#5b012ae455c10c43be256769c272b51c
+c#REMProject Core_Data\Regulations\Modules\Chain Link\2~xFence (Module_Plate).txt#19/03/21#1500#0#0#b7ecab758710b235d57269d4035c3355
+c#REMProject Core_Data\Regulations\Modules\Chain Link\3~xFence (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Drive Shaft\0~DriveShaft (Module_Manager).txt#19/03/21#1688#0#0#653295acb414fd4c60814269fbda3a24
+c#REMProject Core_Data\Regulations\Modules\Drive Shaft\1~DriveShaft (Module_Builder).txt#19/03/21#841#0#0#ae1896b9fb79ae33ca0e4937d112fe42
+c#REMProject Core_Data\Regulations\Modules\Drive Shaft\2~DriveShaft (Module_Strut).txt#19/03/21#730#0#0#81d2971fa90beb29e4fec6240ee82edc
+c#REMProject Core_Data\Regulations\Modules\Drive Shaft\3~DriveShaft (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\Flathead-F12\0~flathead-F12_Engine (Module_Manager).txt#19/03/21#4197#0#0#c03f8f100a5cca25f8c47a71dcc21898
+c#REMProject Core_Data\Regulations\Modules\Flathead-F12\1~flathead-F12_Engine (Module_Builder).txt#19/03/21#1429#0#0#61add887ca6fa0ab974770f867cebb2a
+c#REMProject Core_Data\Regulations\Modules\Flathead-F12\2~flathead-F12_Engine (Module_Damage).txt#19/03/21#681#0#0#be2cfbe9fd80024e557e5b5e24dfa4f4
+c#REMProject Core_Data\Regulations\Modules\Flathead-F12\3~flathead-F12_Engine (Module_InputRx).txt#19/03/21#1262#0#0#fc49f3b6536a28b16da63e5019897932
+c#REMProject Core_Data\Regulations\Modules\Flathead-F12\4~flathead-F12_Engine (Module_DriveEngine).txt#19/03/21#1562#0#0#76bb702b6b25a33f4d8430ad8df3bbb6
+c#REMProject Core_Data\Regulations\Modules\Flathead-F12\5~flathead-F12_Engine (FMODUnity.StudioEventEmitter).txt#19/03/21#329#0#0#6690cea8cc1589fe3b3d6a57adfe6d56
+c#REMProject Core_Data\Regulations\Modules\Flathead-I6\0~flathead-I6_Engine (Module_Manager).txt#19/03/21#3883#0#0#e195f8937da26f59b1fcbab1710594f8
+c#REMProject Core_Data\Regulations\Modules\Flathead-I6\1~flathead-I6_Engine (Module_Builder).txt#19/03/21#1429#0#0#61add887ca6fa0ab974770f867cebb2a
+c#REMProject Core_Data\Regulations\Modules\Flathead-I6\2~flathead-I6_Engine (Module_Damage).txt#19/03/21#681#0#0#be2cfbe9fd80024e557e5b5e24dfa4f4
+c#REMProject Core_Data\Regulations\Modules\Flathead-I6\3~flathead-I6_Engine (Module_InputRx).txt#19/03/21#1262#0#0#fc49f3b6536a28b16da63e5019897932
+c#REMProject Core_Data\Regulations\Modules\Flathead-I6\4~flathead-I6_Engine (Module_DriveEngine).txt#19/03/21#1562#0#0#76bb702b6b25a33f4d8430ad8df3bbb6
+c#REMProject Core_Data\Regulations\Modules\Flathead-I6\5~flathead-I6_Engine (FMODUnity.StudioEventEmitter).txt#19/03/21#324#0#0#34a1cbb4245044407b70068c1441331b
+c#REMProject Core_Data\Regulations\Modules\H-Transfer\0~H-Transfer (Module_Manager).txt#19/03/21#2346#0#0#d61dad48d39496a71a00f8bf7f96ffe4
+c#REMProject Core_Data\Regulations\Modules\H-Transfer\1~H-Transfer (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\H-Transfer\2~H-Transfer (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel\0~Wheel5n (Module_Manager).txt#19/03/21#2148#0#0#769f36ca17fcec827a7e5cc094d1c1fc
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel\1~Wheel5n (Module_Builder).txt#19/03/21#2399#0#0#0aa93e325a4a5504873b2aca687173a4
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel\2~Wheel5n (Module_Suspension).txt#19/03/21#1859#0#0#8c1676134f42e66f771e94236f48738f
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel\3~Wheel5n (Module_InputRx).txt#19/03/21#1254#0#0#47e1b3b5a85382204729563767fa1dab
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel\4~Wheel5n (Module_Damage).txt#19/03/21#680#0#0#5476fd41989cee00d04f176f272a7689
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel\5~Wheel5n (FMODUnity.StudioEventEmitter).txt#19/03/21#317#0#0#5e8fdf73e3d4a8579f56323b1e2b7c89
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel(ST)\0~Wheel5st (Module_Manager).txt#19/03/21#2151#0#0#04e40fe0485b73e5571acf2730e350dc
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel(ST)\1~Wheel5st (Module_Builder).txt#19/03/21#2400#0#0#9a26e38525fd90bbd6b378be7370feec
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel(ST)\2~Wheel5st (Module_Suspension).txt#19/03/21#1858#0#0#8b46c6c6ab755a3af5b3a1de63f0979c
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel(ST)\3~Wheel5st (Module_InputRx).txt#19/03/21#2454#0#0#56f70bbcaccaabb6836ffe304a0b8cfa
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel(ST)\4~Wheel5st (Module_Damage).txt#19/03/21#680#0#0#5476fd41989cee00d04f176f272a7689
+c#REMProject Core_Data\Regulations\Modules\Heavy Wheel(ST)\5~Wheel5st (FMODUnity.StudioEventEmitter).txt#19/03/21#316#0#0#c97964dab5f9c53294a2d30df3ed72a8
+c#REMProject Core_Data\Regulations\Modules\I-Transfer\0~I-Transfer (Module_Manager).txt#19/03/21#1640#0#0#61950fbba8b0f4575d7e201c1c0e304c
+c#REMProject Core_Data\Regulations\Modules\I-Transfer\1~I-Transfer (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\I-Transfer\2~I-Transfer (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\I-Transfer S\0~I-Transfer S (Module_Manager).txt#19/03/21#1641#0#0#d5217771443b8270556693a0cf984e5c
+c#REMProject Core_Data\Regulations\Modules\I-Transfer S\1~I-Transfer S (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\I-Transfer S\2~I-Transfer S (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\Ion Hover\0~Hover1 (Module_Manager).txt#19/03/21#2183#0#0#3dea73eb1a38e9d071f189aa670d5190
+c#REMProject Core_Data\Regulations\Modules\Ion Hover\1~Hover1 (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\Ion Hover\2~Hover1 (Module_Hover).txt#19/03/21#1028#0#0#ca020f91fcca1fc30a088dba58d66434
+c#REMProject Core_Data\Regulations\Modules\Ion Hover\3~Hover1 (Module_InputRx).txt#19/03/21#697#0#0#c3d64d08423c2c970917fb46c7994e64
+c#REMProject Core_Data\Regulations\Modules\Ion Hover\4~Hover1 (Module_Damage).txt#19/03/21#614#0#0#3a9e323252c718823e87f6ca3400e39f
+c#REMProject Core_Data\Regulations\Modules\L-Transfer\0~L-Transfer (Module_Manager).txt#19/03/21#2190#0#0#7996ec3692679625fe769a2483a173d2
+c#REMProject Core_Data\Regulations\Modules\L-Transfer\1~L-Transfer (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\L-Transfer\2~L-Transfer (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\Lead\0~xLeadPlate (Module_Manager).txt#19/03/21#1559#0#0#0d534faddb9a59a43aebb2a729f318dd
+c#REMProject Core_Data\Regulations\Modules\Lead\1~xLeadPlate (Module_Builder).txt#19/03/21#2159#0#0#ab151f9df19a6127066995d6b34fae47
+c#REMProject Core_Data\Regulations\Modules\Lead\2~xLeadPlate (Module_Plate).txt#19/03/21#1500#0#0#b7ecab758710b235d57269d4035c3355
+c#REMProject Core_Data\Regulations\Modules\Lead\3~xLeadPlate (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\0~xLightCockpit (Module_Manager).txt#19/03/21#2464#0#0#4b2f076547d088bcc564733f184cca42
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\10~xLightCockpit (Module_Detector).txt#19/03/21#101#0#0#fc796de64fbb51e46a219da69a4726de
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\1~xLightCockpit (Module_Builder).txt#19/03/21#2350#0#0#aa71a4da59c0ba1f37c1b61625a3fbd4
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\2~xLightCockpit (Module_InputController).txt#19/03/21#2938#0#0#cfa31f1d1bcee64642de7308dc70a363
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\3~xLightCockpit (Module_InputTx).txt#19/03/21#45#0#0#55fe6b32406709e831b31a88d89e7ed7
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\4~xLightCockpit (Module_Seat).txt#19/03/21#363#0#0#68ffe79654d58fb8cbcf455cc31bff40
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\5~xLightCockpit (Module_AimPoint).txt#19/03/21#203#0#0#d9e94c93d4f5d0f5daefffb94be14702
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\6~xLightCockpit (Module_Damage).txt#19/03/21#609#0#0#e4ec3399f0e12f8ff0b5f32cbcf6d74d
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\7~xLightCockpit (Module_InputRx).txt#19/03/21#1252#0#0#5164ddc26c9d4bf20bd7d7bade2f40b7
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\8~xLightCockpit (Module_FireExtinguisher).txt#19/03/21#361#0#0#2d6c49a8307cfd0ff3afe57d1501d969
+c#REMProject Core_Data\Regulations\Modules\Light Cockpit\9~xLightCockpit (Module_GridMaster).txt#19/03/21#297#0#0#79e8c8219201ac9d90b57c4b954a0f1b
+c#REMProject Core_Data\Regulations\Modules\Light Wheel\0~Wheel1n (Module_Manager).txt#19/03/21#2146#0#0#77e3c86d91da7d5aa665dc6c7998a132
+c#REMProject Core_Data\Regulations\Modules\Light Wheel\1~Wheel1n (Module_Builder).txt#19/03/21#2398#0#0#fb451c37c9211fc33735ac83588eda1f
+c#REMProject Core_Data\Regulations\Modules\Light Wheel\2~Wheel1n (Module_Suspension).txt#19/03/21#1859#0#0#8c1676134f42e66f771e94236f48738f
+c#REMProject Core_Data\Regulations\Modules\Light Wheel\3~Wheel1n (Module_InputRx).txt#19/03/21#1254#0#0#47e1b3b5a85382204729563767fa1dab
+c#REMProject Core_Data\Regulations\Modules\Light Wheel\4~Wheel1n (Module_Damage).txt#19/03/21#680#0#0#5476fd41989cee00d04f176f272a7689
+c#REMProject Core_Data\Regulations\Modules\Light Wheel\5~Wheel1n (FMODUnity.StudioEventEmitter).txt#19/03/21#317#0#0#5e8fdf73e3d4a8579f56323b1e2b7c89
+c#REMProject Core_Data\Regulations\Modules\Light Wheel(ST)\0~Wheel1st (Module_Manager).txt#19/03/21#2149#0#0#c2a059233708d1f08c3b5e48361ca1e9
+c#REMProject Core_Data\Regulations\Modules\Light Wheel(ST)\1~Wheel1st (Module_Builder).txt#19/03/21#2399#0#0#0aa93e325a4a5504873b2aca687173a4
+c#REMProject Core_Data\Regulations\Modules\Light Wheel(ST)\2~Wheel1st (Module_Suspension).txt#19/03/21#1858#0#0#8b46c6c6ab755a3af5b3a1de63f0979c
+c#REMProject Core_Data\Regulations\Modules\Light Wheel(ST)\3~Wheel1st (Module_InputRx).txt#19/03/21#2454#0#0#56f70bbcaccaabb6836ffe304a0b8cfa
+c#REMProject Core_Data\Regulations\Modules\Light Wheel(ST)\4~Wheel1st (Module_Damage).txt#19/03/21#680#0#0#5476fd41989cee00d04f176f272a7689
+c#REMProject Core_Data\Regulations\Modules\Light Wheel(ST)\5~Wheel1st (FMODUnity.StudioEventEmitter).txt#19/03/21#316#0#0#c97964dab5f9c53294a2d30df3ed72a8
+c#REMProject Core_Data\Regulations\Modules\M230-20mm\0~M230-20mm (Module_Manager).txt#19/03/21#1792#0#0#49f47a6851458e8bf26a33f83c113804
+c#REMProject Core_Data\Regulations\Modules\M230-20mm\1~M230-20mm (Module_Builder).txt#19/03/21#4162#0#0#ec4257327e3133a7fbe703a490e17383
+c#REMProject Core_Data\Regulations\Modules\M230-20mm\2~M230-20mm (Module_WeapenMount).txt#19/03/21#1237#0#0#86c00e2e2e6c4ee2c8027df5244691b3
+c#REMProject Core_Data\Regulations\Modules\M230-20mm\3~M230-20mm (Module_InputRx).txt#19/03/21#1725#0#0#5e2563e1376e5973f1312961d541ecc0
+c#REMProject Core_Data\Regulations\Modules\M230-20mm\4~M230-20mm (Module_Cannon).txt#19/03/21#1743#0#0#3843a4d0b247fe67f7c4a158648c7067
+c#REMProject Core_Data\Regulations\Modules\M230-20mm\5~M230-20mm (Module_Damage).txt#19/03/21#706#0#0#68d7ba708b0df3285b49605ae2ebaed9
+c#REMProject Core_Data\Regulations\Modules\Medium Track\0~Cent-Track (Module_Manager).txt#19/03/21#1286#0#0#80f6dd6160c30fe8876d97ecbb64f33a
+c#REMProject Core_Data\Regulations\Modules\Medium Track\1~Cent-Track (Module_Builder).txt#19/03/21#2214#0#0#3c1fc54c77be3b74de3a6d71cac42706
+c#REMProject Core_Data\Regulations\Modules\Medium Track\2~Cent-Track (Module_InputRx).txt#19/03/21#1249#0#0#ab5858ba042d2cee7904d759093cab08
+c#REMProject Core_Data\Regulations\Modules\Medium Track\3~Cent-Track (Module_TankTrack).txt#19/03/21#1925#0#0#5b4d37459dcd35bc94765f6f69612b86
+c#REMProject Core_Data\Regulations\Modules\Medium Track\4~Cent-Track (Module_Damage).txt#19/03/21#681#0#0#be2cfbe9fd80024e557e5b5e24dfa4f4
+c#REMProject Core_Data\Regulations\Modules\Medium Track\5~Cent-Track (FMODUnity.StudioEventEmitter).txt#19/03/21#301#0#0#0ccb1f5aeff46174dce2b27e112b75ba
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel\0~Wheel2n (Module_Manager).txt#19/03/21#2149#0#0#c2a059233708d1f08c3b5e48361ca1e9
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel\1~Wheel2n (Module_Builder).txt#19/03/21#2398#0#0#fb451c37c9211fc33735ac83588eda1f
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel\2~Wheel2n (Module_Suspension).txt#19/03/21#1859#0#0#8c1676134f42e66f771e94236f48738f
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel\3~Wheel2n (Module_InputRx).txt#19/03/21#1254#0#0#47e1b3b5a85382204729563767fa1dab
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel\4~Wheel2n (Module_Damage).txt#19/03/21#680#0#0#5476fd41989cee00d04f176f272a7689
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel\5~Wheel2n (FMODUnity.StudioEventEmitter).txt#19/03/21#317#0#0#5e8fdf73e3d4a8579f56323b1e2b7c89
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel(ST)\0~Wheel2st (Module_Manager).txt#19/03/21#2152#0#0#026c1f615b9e5534565399bb9508fd3e
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel(ST)\1~Wheel2st (Module_Builder).txt#19/03/21#2399#0#0#0aa93e325a4a5504873b2aca687173a4
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel(ST)\2~Wheel2st (Module_Suspension).txt#19/03/21#1858#0#0#8b46c6c6ab755a3af5b3a1de63f0979c
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel(ST)\3~Wheel2st (Module_InputRx).txt#19/03/21#2454#0#0#56f70bbcaccaabb6836ffe304a0b8cfa
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel(ST)\4~Wheel2st (Module_Damage).txt#19/03/21#680#0#0#5476fd41989cee00d04f176f272a7689
+c#REMProject Core_Data\Regulations\Modules\Medium Wheel(ST)\5~Wheel2st (FMODUnity.StudioEventEmitter).txt#19/03/21#317#0#0#5e8fdf73e3d4a8579f56323b1e2b7c89
+c#REMProject Core_Data\Regulations\Modules\Meteor-V12\0~MeteorV12 (Module_Manager).txt#19/03/21#4430#0#0#e8831324c6b6aff3f15b5d6be59f3400
+c#REMProject Core_Data\Regulations\Modules\Meteor-V12\1~MeteorV12 (Module_Builder).txt#19/03/21#1429#0#0#61add887ca6fa0ab974770f867cebb2a
+c#REMProject Core_Data\Regulations\Modules\Meteor-V12\2~MeteorV12 (Module_Damage).txt#19/03/21#681#0#0#be2cfbe9fd80024e557e5b5e24dfa4f4
+c#REMProject Core_Data\Regulations\Modules\Meteor-V12\3~MeteorV12 (Module_InputRx).txt#19/03/21#1262#0#0#fc49f3b6536a28b16da63e5019897932
+c#REMProject Core_Data\Regulations\Modules\Meteor-V12\4~MeteorV12 (Module_DriveEngine).txt#19/03/21#1563#0#0#16773f93ff68fa1e510bf201188ccbfb
+c#REMProject Core_Data\Regulations\Modules\Meteor-V12\5~MeteorV12 (FMODUnity.StudioEventEmitter).txt#19/03/21#326#0#0#a36bb5429eef8ce3a72546af0e793ee2
+c#REMProject Core_Data\Regulations\Modules\Meteorite-V8\0~MeteorV8 (Module_Manager).txt#19/03/21#4430#0#0#e8831324c6b6aff3f15b5d6be59f3400
+c#REMProject Core_Data\Regulations\Modules\Meteorite-V8\1~MeteorV8 (Module_Builder).txt#19/03/21#1429#0#0#61add887ca6fa0ab974770f867cebb2a
+c#REMProject Core_Data\Regulations\Modules\Meteorite-V8\2~MeteorV8 (Module_Damage).txt#19/03/21#681#0#0#be2cfbe9fd80024e557e5b5e24dfa4f4
+c#REMProject Core_Data\Regulations\Modules\Meteorite-V8\3~MeteorV8 (Module_InputRx).txt#19/03/21#1262#0#0#fc49f3b6536a28b16da63e5019897932
+c#REMProject Core_Data\Regulations\Modules\Meteorite-V8\4~MeteorV8 (Module_DriveEngine).txt#19/03/21#1563#0#0#16773f93ff68fa1e510bf201188ccbfb
+c#REMProject Core_Data\Regulations\Modules\Meteorite-V8\5~MeteorV8 (FMODUnity.StudioEventEmitter).txt#19/03/21#325#0#0#6a7fd63075b407372d4855610bced679
+c#REMProject Core_Data\Regulations\Modules\MG-34\0~MG-34 (Module_Manager).txt#19/03/21#1786#0#0#5c44737ff6b9abc5363213480577e9f7
+c#REMProject Core_Data\Regulations\Modules\MG-34\1~MG-34 (Module_Builder).txt#19/03/21#4162#0#0#ec4257327e3133a7fbe703a490e17383
+c#REMProject Core_Data\Regulations\Modules\MG-34\2~MG-34 (Module_WeapenMount).txt#19/03/21#1237#0#0#86c00e2e2e6c4ee2c8027df5244691b3
+c#REMProject Core_Data\Regulations\Modules\MG-34\3~MG-34 (Module_InputRx).txt#19/03/21#1725#0#0#5e2563e1376e5973f1312961d541ecc0
+c#REMProject Core_Data\Regulations\Modules\MG-34\4~MG-34 (Module_Cannon).txt#19/03/21#1718#0#0#bd47b6a4a1da675297c8be7f75a201dd
+c#REMProject Core_Data\Regulations\Modules\MG-34\5~MG-34 (Module_Damage).txt#19/03/21#695#0#0#180fa030ffbafd1d1ffd7f00f57aaac0
+c#REMProject Core_Data\Regulations\Modules\Optics Mk1\0~OpticsMk1 (Module_Manager).txt#19/03/21#1647#0#0#8ff9fbfa0b4f4f0fee940e3a7e7ede5a
+c#REMProject Core_Data\Regulations\Modules\Optics Mk1\1~OpticsMk1 (Module_Builder).txt#19/03/21#1419#0#0#dd95bc535718fd047197ebd6a7c2c977
+c#REMProject Core_Data\Regulations\Modules\Optics Mk1\2~OpticsMk1 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Optics Mk1\3~OpticsMk1 (Module_InputRx).txt#19/03/21#263#0#0#3083a2a40798e95d770cf5c68123e202
+c#REMProject Core_Data\Regulations\Modules\Optics Mk1\4~OpticsMk1 (Module_Detector).txt#19/03/21#101#0#0#fc796de64fbb51e46a219da69a4726de
+c#REMProject Core_Data\Regulations\Modules\Optics Mk2\0~OpticsMk2 (Module_Manager).txt#19/03/21#1482#0#0#2eea24d5de17523f419b415aa96374b4
+c#REMProject Core_Data\Regulations\Modules\Optics Mk2\1~OpticsMk2 (Module_Builder).txt#19/03/21#1419#0#0#dd95bc535718fd047197ebd6a7c2c977
+c#REMProject Core_Data\Regulations\Modules\Optics Mk2\2~OpticsMk2 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Optics Mk2\3~OpticsMk2 (Module_InputRx).txt#19/03/21#263#0#0#3083a2a40798e95d770cf5c68123e202
+c#REMProject Core_Data\Regulations\Modules\Optics Mk2\4~OpticsMk2 (Module_Detector).txt#19/03/21#101#0#0#fc796de64fbb51e46a219da69a4726de
+c#REMProject Core_Data\Regulations\Modules\Rolled Steel\0~xPlate1 (Module_Manager).txt#19/03/21#1568#0#0#9c9815d6ef9b3ed5f74a65b27cdf428a
+c#REMProject Core_Data\Regulations\Modules\Rolled Steel\1~xPlate1 (Module_Builder).txt#19/03/21#2159#0#0#ab151f9df19a6127066995d6b34fae47
+c#REMProject Core_Data\Regulations\Modules\Rolled Steel\2~xPlate1 (Module_Plate).txt#19/03/21#1500#0#0#b7ecab758710b235d57269d4035c3355
+c#REMProject Core_Data\Regulations\Modules\Rolled Steel\3~xPlate1 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Sight Mk1\0~SightMk1 (Module_Manager).txt#19/03/21#1529#0#0#13f9384b32627e077f85fa8af04c5e84
+c#REMProject Core_Data\Regulations\Modules\Sight Mk1\1~SightMk1 (Module_Builder).txt#19/03/21#1345#0#0#43c3c843fc750264d60399e8be37b7a4
+c#REMProject Core_Data\Regulations\Modules\Sight Mk1\2~SightMk1 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Sight Mk1\3~SightMk1 (Module_InputRx).txt#19/03/21#1218#0#0#7511f547317633da95846da62d8515c7
+c#REMProject Core_Data\Regulations\Modules\Sight Mk1\4~SightMk1 (Module_Scope).txt#19/03/21#179#0#0#71c20843dcc39307665e71526cf8b1b5
+c#REMProject Core_Data\Regulations\Modules\Sight Mk2\0~SightMk2 (Module_Manager).txt#19/03/21#1531#0#0#b314d55f7214c666c91ac7b299e4e668
+c#REMProject Core_Data\Regulations\Modules\Sight Mk2\1~SightMk2 (Module_Builder).txt#19/03/21#1345#0#0#43c3c843fc750264d60399e8be37b7a4
+c#REMProject Core_Data\Regulations\Modules\Sight Mk2\2~SightMk2 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Sight Mk2\3~SightMk2 (Module_InputRx).txt#19/03/21#1218#0#0#7511f547317633da95846da62d8515c7
+c#REMProject Core_Data\Regulations\Modules\Sight Mk2\4~SightMk2 (Module_Scope).txt#19/03/21#179#0#0#71c20843dcc39307665e71526cf8b1b5
+c#REMProject Core_Data\Regulations\Modules\Strut1\0~xStrut1 (Module_Manager).txt#19/03/21#1766#0#0#ea8cfd4d63e050d45eea12b4fd1420a4
+c#REMProject Core_Data\Regulations\Modules\Strut1\1~xStrut1 (Module_Builder).txt#19/03/21#835#0#0#cf78f94030a8f32e5603b14f17a65111
+c#REMProject Core_Data\Regulations\Modules\Strut1\2~xStrut1 (Module_Strut).txt#19/03/21#734#0#0#0dc7d9864d8de5379966e62409b43e78
+c#REMProject Core_Data\Regulations\Modules\Strut1\3~xStrut1 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\T-Transfer\0~T-Transfer (Module_Manager).txt#19/03/21#2580#0#0#c86ec20d5c2f0377130675c84035e9fc
+c#REMProject Core_Data\Regulations\Modules\T-Transfer\1~T-Transfer (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\T-Transfer\2~T-Transfer (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight\0~SightMk3 (Module_Manager).txt#19/03/21#2315#0#0#8e8e45f5868fcdcf30f2c0fe1da41f25
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight\1~SightMk3 (Module_Builder).txt#19/03/21#1531#0#0#b314d55f7214c666c91ac7b299e4e668
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight\2~SightMk3 (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight\3~SightMk3 (Module_InputRx).txt#19/03/21#1218#0#0#7511f547317633da95846da62d8515c7
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight\4~SightMk3 (Module_Scope).txt#19/03/21#179#0#0#71c20843dcc39307665e71526cf8b1b5
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight Long\0~SightMk3 Long (Module_Manager).txt#19/03/21#2322#0#0#ec06ac757dfc4ae313fa6c40365f6e37
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight Long\1~SightMk3 Long (Module_Builder).txt#19/03/21#1530#0#0#395ec14872c65c85e8022898a0baab99
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight Long\2~SightMk3 Long (Module_Damage).txt#19/03/21#657#0#0#5c7d637105daf640f7a93d7c5247b85d
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight Long\3~SightMk3 Long (Module_InputRx).txt#19/03/21#1218#0#0#7511f547317633da95846da62d8515c7
+c#REMProject Core_Data\Regulations\Modules\Telescopic Sight Long\4~SightMk3 Long (Module_Scope).txt#19/03/21#179#0#0#71c20843dcc39307665e71526cf8b1b5
+c#REMProject Core_Data\Regulations\Modules\W-Transfer\0~W-Transfer (Module_Manager).txt#19/03/21#2971#0#0#d68c44225062d77c221c1a6ec392a9a3
+c#REMProject Core_Data\Regulations\Modules\W-Transfer\1~W-Transfer (Module_Builder).txt#19/03/21#840#0#0#5cb7eb19b41e567011dce2ed12cda0b9
+c#REMProject Core_Data\Regulations\Modules\W-Transfer\2~W-Transfer (Module_Damage).txt#19/03/21#656#0#0#a638e0c94344c7990c9a3828bbcdbe78
+c#REMProject Core_Data\Resources\unity default resources# 4/02/21#3837020#0#0#13a5d336c15bcc8388b715abb38624a4
+c#REMProject Core_Data\Resources\unity_builtin_extra#19/03/21#584440#0#0#3d7acc61891477097e07f34d0ed64d73
+c#REMProject Core_Data\resources.assets#19/03/21#171224104#0#0#b05a88431fa63c0ec5fceff300e0cba7
+c#REMProject Core_Data\resources.assets.resS#19/03/21#328717844#0#0#2a8f934b25070377aca639b4c2e0b826
+c#REMProject Core_Data\sharedassets0.assets#19/03/21#115602308#0#0#26e202976c11d9e64f1e5b9fb427ac41
+c#REMProject Core_Data\sharedassets0.assets.resS#19/03/21#60298780#0#0#b2f9d5566e487f7cfe17b4a6f7c8e2a7
+c#REMProject Core_Data\sharedassets1.assets#19/03/21#488960#0#0#41797fdb77f711ac746f5ef7dd6767e6
+c#REMProject Core_Data\sharedassets1.assets.resS#19/03/21#18939776#0#0#a30da4b26a996d0dfb0a148e5f8cf2c6
+c#REMProject Core_Data\sharedassets2.assets#19/03/21#33620556#0#0#c5d5a2d972692f70dee5dfedb2783f04
+c#REMProject Core_Data\sharedassets2.assets.resS#19/03/21#16955332#0#0#98fd14cbfd311dfa2717af9d4b8acd92
+c#REMProject Core_Data\sharedassets3.assets#19/03/21#14244148#0#0#e728aa67c59f8a57e855778dab84117b
+c#REMProject Core_Data\sharedassets3.assets.resS#19/03/21#98070248#0#0#227536105f05d82c29a7c3e27d1e5811
+c#REMProject Core_Data\sharedassets4.assets#19/03/21#16650428#0#0#c140e65f02f01ce01adfb3dd8a44e594
+c#REMProject Core_Data\sharedassets4.assets.resS#19/03/21#150848952#0#0#25b7102389fcc5714c2b18230e78acf0
+c#REMProject Core_Data\sharedassets5.assets#19/03/21#120412732#0#0#7d30724e91f832e8be72460b9d7d76ee
+c#REMProject Core_Data\sharedassets5.assets.resS#19/03/21#74901068#0#0#4cce87fcc35805b81f7e069f07737e54
+c#REMProject Core_Data\sharedassets6.assets#19/03/21#5687044#0#0#a475a7a01d05a5de26cc6a81e2f62cfe
+c#REMProject Core_Data\sharedassets6.assets.resS#19/03/21#111457672#0#0#1e6eb0a8e7f78b90196e3ead2d4cc78a
+c#REMProject Core_Data\sharedassets7.assets#19/03/21#29079128#0#0#eea134b22d4437ee9dd5f15f6570077b
+c#REMProject Core_Data\sharedassets7.assets.resS#19/03/21#57058444#0#0#d05f42fb50c9cdf5aebca0d8432bb6d7
+c#REMProject Core_Data\StreamingAssets\Master Bank.bank#21/02/21#7323072#0#0#658201eab31d141ca5b6753650228c82
+c#REMProject Core_Data\StreamingAssets\Master Bank.strings.bank#21/02/21#5592#0#0#89852e4cdcb5e3abc8efcac677c105ab
+c#REMProject Core_Data\Vessels\10.5cmTest.STERIK#15/03/21#140555#0#0#5b7548bc0be0189b14b26c30668d9fff
+c#REMProject Core_Data\Vessels\Auto-Save.STERIK#20/03/21#38062#0#0#64fded7c1f380017ce6b695acd088cb6
+c#REMProject Core_Data\Vessels\MilkTruck.STERIK#19/03/21#121386#0#0#3e0da5f1548c1d2bad5e53dee612a545
+c#REMProject Core_Data\Vessels\T-67.STERIK#19/03/21#140441#0#0#d744d0103d5b43d69f49bd811b42ee76
+c#UnityCrashHandler64.exe# 4/02/21#1095032#0#0#98131dc90819c66ab5d41af3a38a9881
+c#UnityPlayer.dll# 4/02/21#25960824#0#0#f25445a159abc5a977c0ed1820dcd69a
+c#version.txt#26/06/21#4#0#0#801c85242fa04b946cd9217b2063f22a
